@@ -1,3 +1,0 @@
-Even though cloth is just a 2D Plane its done from a OBJ Mesh not a parametriclly created 2D Grid. While this seems like a waste of time (easier just to create usinga
-a parametric 2D Grid ie nested loop) it makes sense that the edges of a triangle mesh of a grid, will include diaganoal springs along the faces aswell as the edges of 
-the grid itself.

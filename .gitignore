@@ -1,18 +1,18 @@
 # Dirs
 
 # Assignment_01 Ignore
-Projects/Assignment_01_InverseKinematics/.vs/
-Projects/Assignment_01_InverseKinematics/_bu/
-Projects/Assignment_01_InverseKinematics/build/intermediate/
-Projects/Assignment_01_InverseKinematics/ext/
+A1_Kinematics/.vs/
+A1_Kinematics/_bu/
+A1_Kinematics/build/intermediate/
+A1_Kinematics/ext/
 
 # Assignment_02 Ignore
-Projects/Assignment_02_ClothSimulation/.vs/
-Projects/Assignment_02_ClothSimulation/build/intermediate/
+A2_MassSpringCloth/.vs/
+A2_MassSpringCloth/build/intermediate/
 
 # Assignment_03 Ignore
-Projects/Assignment_03_FluidSimulation/.vs/
-Projects/Assignment_03_FluidSimulation/build/intermediate/
+A3_SPHFluid/.vs/
+A3_SPHFluid/build/intermediate/
 
 
 # File types
