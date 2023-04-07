@@ -10,7 +10,7 @@ Due to my prior experience in this domain, I found the projects relativity simpl
 
 ##### Projects
 
-* **A1_Kinematics:*** 
+* **A1_Kinematics: BVH Forward Kinematics**
 * **A2_MassSpring_Cloth:** A Mass-Spring based Cloth solver. 
 * **A3_SPH_Fluid:** A 2D SPH Fluid solver. 
 
